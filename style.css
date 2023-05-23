@@ -1,0 +1,40 @@
+/* NAVIGATION */
+p {
+    background-color: darkgreen;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+}
+
+input[type="text"] {
+    color: rgb(47, 47, 188);
+}
+
+input[type="text"] {
+    color: black;
+}
+
+.chocolate {
+    color: green;
+}
+
+#grandma_id {
+    color: pink;
+}
+
+header p {
+    color: gold;
+}
+
+img {
+    height: 50em;
+    width: 50em;
+}
+
+.first_section {
+    background-color: red;
+    height: 50vh;
+    width: 50vw;
+}
